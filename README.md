@@ -36,7 +36,7 @@
 
 ### 🥐 **Flaky Layers** (Sequential Logic) 
 - [ ] **4. 7-Segment Display**  
-  - [ ] Static digits (0-9)  
+  - [*] Static digits (0-9)  
   - [ ] Counter (0-9 → repeat)  
 
 - [ ] **5. Flip-Flops & Registers**  
